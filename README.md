@@ -1,5 +1,5 @@
 # to-do-list
-To-Do List Website (Django)
+To-Do List Website (Django) [FINISHED]
 
 All the front & back end are done with HTML/CSS/Django.
 
